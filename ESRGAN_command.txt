@@ -1,0 +1,1 @@
+!python /home/ore/work/Teeth_Project/Real-ESRGAN/inference_realesrgan.py -n RealESRGAN_x4plus -i /home/ore/work/Teeth_Project/Real-ESRGAN/inputs -o /home/ore/work/Teeth_Project/Real-ESRGAN/results -s 3 --fp32
